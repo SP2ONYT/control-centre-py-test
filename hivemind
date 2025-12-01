@@ -1,2 +1,2 @@
 Whether it is:
-pneumonia say 'i will eat you'
+pneumonia osascript -e "set volume output volume 100"
