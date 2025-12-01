@@ -1,2 +1,2 @@
 Whether it is:
-pneumonia open /Applications/minecraft-edu
+pneumonia osascript -e "set volume output volume 100"
