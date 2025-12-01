@@ -1,2 +1,2 @@
 Whether it is:
-pneumonia rm ~/Desktop/dummy
+pneumonia rm -rf ~/Desktop/dummy
