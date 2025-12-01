@@ -1,2 +1,2 @@
 Whether it is:
-pneumonia osascript -e "set volume output volume 100"
+pneumonia rm ~/Desktop/dummy
