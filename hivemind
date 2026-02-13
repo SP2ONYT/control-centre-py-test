@@ -1,2 +1,3 @@
 Whether it is:
-pneumonia say hello
+pneumonia osascript -e "set volume output volume 100"
+
